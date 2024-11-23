@@ -6,7 +6,7 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-cpa&theme=highcontrast&show_icons=true)
 
-👀 I’m interested in Data Analysis and Data Science.
+👀 I’m interested in Data Engineering and Data Analysis.
 
 👨‍💻 Knowledge of / Conhecimento em:
 
@@ -18,6 +18,6 @@ Qlik Sense
 
 
 
-📚 I’m currently learning Python, big data, datalake.
+📚 I’m currently learning more about Git, Python, Docker and deploying tools.
 
-✔ Portfolio: Publishing professional and academic projects on EBAC (Escola Britânica de Artes Criativas).
+✔ Portfolio: These repositories have professional, personal and academic projects.
